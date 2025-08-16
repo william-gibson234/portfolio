@@ -12,9 +12,9 @@ Planned Graduation Year: 2028
 ### Projects
 Lifting Unlimited - [Steam Store Page](https://store.steampowered.com/app/2953600/Lifting_Unlimited/)\
 ![RenderError](Assets/main_logo_1.png) ![RenderError](Assets/gym.png) ![RenderError](Assets/competition.png)
--	Achieved approximately 570 downloads
--	Designed, developed, and published a weightlifting video game in Unity using C#
--	Created visuals and game objects, such as backgrounds and player avatars, with Blender 3D design software
+-	Designed, developed, and published a weightlifting video game in Unity using C# that achieved approximately **570 downloads**
+-	Utilized knowledge of object-oriented programming to create complex inheritance relationships that increased runtime efficiency and decreased code reuse 
+-	Constructed algorithms using knowledge of data structures to program various game functions, including player progression, updating visuals, and storing player data from game to game
 -	Implemented game mechanics, such as UI elements, player controls, and weightlifting progression logic
 -	Solicited feedback and advice from other game designers and video game players
 -	Debugged all game elements to find code issues. Created a professional and appealing store page and gameplay trailer, and published the game on Steam
