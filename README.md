@@ -14,7 +14,7 @@ Lifting Unlimited - [Steam Store Page](https://store.steampowered.com/app/295360
 ![RenderError](Assets/main_logo_1.png) ![RenderError](Assets/gym.png) ![RenderError](Assets/competition.png)
 -	Designed, developed, and published a weightlifting video game in Unity using C# that achieved approximately **570 downloads**
 -	Utilized knowledge of object-oriented programming to create complex inheritance relationships that increased runtime efficiency and decreased code reuse and to understand Unity’s Game Object system
--	Constructed algorithms using knowledge of data structures, such as state machines, arrays, and others, to program various game functions, including player progression, updating visuals, and storing player data from game to game
+-	Constructed algorithms using knowledge of data structures, such as state machines, arrays, and structs, to program various game functions, including player progression, updating visuals, and storing player data from game to game
 -	Implemented game mechanics, such as UI elements, player controls, and weightlifting progression logic
 -	Solicited feedback and advice from other game designers and video game players
 -	Debugged all game elements to find code issues. Created a professional and appealing store page and gameplay trailer, and published the game on Steam
