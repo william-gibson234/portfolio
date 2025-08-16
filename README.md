@@ -11,7 +11,7 @@ Planned Graduation Year: 2028
 
 ### Projects
 Lifting Unlimited - Steam Video Game\
-![alt text](Assets/main_logo_2.png)
+![alt text](Assets/main_logo_2.png) ![alt text](Assets/gym_image.png) ![alt text](Assets/competition.png)
 -	Achieved approximately 570 downloads
 -	Designed, developed, and published a weightlifting video game in Unity using C#
 -	Created visuals and game objects, such as backgrounds and player avatars, with Blender 3D design software
