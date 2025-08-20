@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63e823747fe78940a350bcfd1109cef, type: 3}
+  m_Name: Hat6
+  m_EditorClassIdentifier: 
+  buttonImage: {fileID: 21300000, guid: de6bf7e1f602af14e91e076bafdbd776, type: 3}
+  hatPrefab: {fileID: 1339915455722732832, guid: 277f2e75e8271d54899fa6b33f88fa87,
+    type: 3}
+  cost: 320
