@@ -21,7 +21,7 @@ Lifting Unlimited is a 3D weightlifting simulator indie game, that involves trai
 - Open Shop: P
 
 ## Screenshots
-
+![RenderError](../Assets/competition.png)
 
 ## How to Run
 - Clone this repository.
