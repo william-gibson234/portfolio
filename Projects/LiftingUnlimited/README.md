@@ -1,26 +1,32 @@
-# My Unity Game 🎮
+# Lifting Unlimited
 
 ## About
-This is a [genre, e.g., 2D platformer / puzzle game / FPS] built in Unity.  
-It demonstrates [list cool technical features: AI, physics system, UI, shaders, etc.].
+Lifting Unlimited is a 3D weightlifting simulator indie game, that involves training and progressing in the three powerlifting lifts, the squat, the bench press, and the deadlift. Lifting Unlimited’s realistic weightlifting progression patterns require the user to discover the fastest way to progress. The player must take care of their health to avoid injury and keep their energy level high. Once the user is sufficiently strong, they can compete in Local, State, National, and International Competitions, attempting to score the highest total in the three lifts. Their placement in these differing levels of competition earns coins that can be used to customize their character's appearance. Start your weightlifting journey with Lifting Unlimited!
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## Technical Features
+- Algorithmic complexity to store data, model weightlifting progression, and updating visuals
+- Custom state machine for handling different states of a "lift"
+- Object oriented programming to reduce code reusage and increase code readability. Object Oriented programming was used to create a complicated Parent-Child inheritance structure with the various types of Objects the Player can Interact with to ensure interact functionality across the board.
+- 3D modeling of Weightlifting Biomechanics to create immersive animations to play while Player is lifting
+- Event-driven system using Unity's built in events to improve modularity of code
+- ScriptableObject based architecure to store plates and player hats
+- Utilized a data-driven design by storing player data in a JSON file to further separate data and logic give project more flexibility for future project expansion
+- Physics optimization to improve performance and accuracy of collision and interactions
 
 ## Controls
 - Move: WASD / Arrow Keys
-- Jump: Space
-- [Any special controls]
+- Interact and Enter Weight: E
+- Interact: T
+- Interact Alternate: Space
+- Open Shop: P
 
 ## Screenshots
-(You can drag screenshots into GitHub after committing your game.)
+
 
 ## How to Run
 - Clone this repository.
-- Open it in Unity **[version number, e.g., 2022.3.5f1]**.
+- Open it in Unity Version: **[2022.3.7f1]**.
 - Open the main scene in `Assets/Scenes/` and press Play.
 
 ## Credits
-Created by [Your Name].
+Created by [Will Gibson]
