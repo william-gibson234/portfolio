@@ -21,7 +21,7 @@ Lifting Unlimited is a 3D weightlifting simulator indie game, that involves trai
 - Open Shop: P
 
 ## Screenshots
-![RenderError](../../Assets/competition.png) ![RenderError](../../Assets/gym.png) ![RenderError](../../Assets/main_logo_1.png)
+![RenderError](../../Assets/main_logo_1.png) ![RenderError](../../Assets/doctor.png) ![RenderError](../../Assets/protein.png) ![RenderError](../../Assets/shop.png) ![RenderError](../../Assets/tutorial.png) ![RenderError](../../Assets/gym2.png)![RenderError](../../Assets/competition.png) ![RenderError](../../Assets/gym.png)
 
 ## How to Run
 - Clone this repository.
